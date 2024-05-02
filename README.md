@@ -5,7 +5,7 @@ I am a frontend developer based in Europe. As a former UX designer, I strive to 
 ## 🚀 About Me
 
 - 🔭 I'm currently working on frontend projects to practice the skills I learned from online courses.
-- 📝 I have years of experience working in an international company's design team, where I created differently sized campaign images in FIgma and regularly used Jira to keep track of tasks.
+- 📝 I have years of experience working in an international company's design team, where I created differently sized campaign images in Figma and regularly used Jira to keep track of tasks.
 
 
 ## Tech Stack
