@@ -13,7 +13,9 @@ I am a frontend developer based in Europe. As a former UX designer, I strive to 
 
 ## 🏆 Achievements
 
-- 🌟 Completed the #30NitesOfCode challenge of Codedex - Consistently worked on coding projects, learned and connected with fellow developers over the course of 30 days.
+- 🌟 Completed the #30NitesOfCode challenge of Codedex - Consistently worked on coding projects, learned new skills and connected with fellow developers over the course of 30 days.
+ [You can check out my progress here.](https://www.codedex.io/@krisztina62656/30-nites-of-code)  
+(And yes, I kept the virtual coding buddy alive:  ![@krisztina62656 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=krisztina62656) )
 
 ## 🔍 I'm looking for
 - A mentor who can give me guidance in my self-study journey.
